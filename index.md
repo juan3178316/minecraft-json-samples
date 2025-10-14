@@ -1,9 +1,15 @@
 ---
 title: "Testing website with Markdown"
 description: "description for my website"
-icon: "https://avatars.githubusercontent.com/u/236281480?v=4"
+color-scheme: dark
 permalink: /
 layout: default
 ---
 
 ## Hi everyone
+```json
+{
+    "testing": 123,
+    "yi": "autumn" // testing comment
+}
+```
