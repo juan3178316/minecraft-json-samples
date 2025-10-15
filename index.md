@@ -14,9 +14,9 @@ Learn how you can use the `.json` file here:
 
 [add-ons](add-ons/index.md)
 
-[resources | texture packs](resource_packs/index.md)
+[resources \| texture packs](resource_packs/index.md)
 
-[behaviors | scripts](behavior_packs/index.md)
+[behaviors \| scripts](behavior_packs/index.md)
 
 ---
 
