@@ -1,5 +1,5 @@
 ---
-title: "MC JSON Damples"
+title: "MC JSON Samples"
 description: "learn how works the .JSON file in Minecraft"
 author: juan3178316
 date: 10/14/25
@@ -13,11 +13,11 @@ Learn how you can use the `.json` file here:
 
 ## chose where you create your content:
 
-[add-ons](./addons/resource_packs)
+[add-ons](addons/index.md)
 
-[resources | texture packs](./resource_packs)
+[resources | texture packs](resource_packs/index.md)
 
-[behaviors | scripts](./behavior_packs)
+[behaviors | scripts](behavior_packs/indexado.marcdon)
 
 ---
 
