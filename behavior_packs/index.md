@@ -2,7 +2,7 @@
 title: "MC JSON Samples"
 description: "learn how works the .JSON file in Minecraft"
 author: juan3178316
-date: 10/14/25
+date: 10/14/2025
 topic: article
 ---
 
