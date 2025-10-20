@@ -2,10 +2,12 @@
 title: "MC JSON Samples"
 description: "learn how works the .JSON file in Minecraft"
 author: juan3178316
-topic: article
+date: 2025-10-19
 ---
 
-Learn how you can use the `.json` file here:
+# Storage
+### Behavior packs
+- [`manifest.json`](behavior_packs/manifest.md)
 
-> [!IMPORTANT]
-> This is a test: you can learn how create your own add-on, texture pack or scripts
+### Resource packs
+- [`manifest.json`](resource_packs/manifest.md)
