@@ -13,16 +13,13 @@ Learn how you can use the `.json` file here:
 ## chose where you create your content:
 <div align=center>
 
-<img src="icons/addon_icon.png" width="64"></br>
-
+<img src="icons/addon_icon.png" width="64"></img></br>
 [`add-ons`](add-ons/index.md)
 
-<img src="icons/res_icon.png" width="64"></br>
-
+<img src="icons/res_icon.png" width="64"></img></br>
 [`resources \| texture packs`](resource_packs/index.md)
 
-<img src="icons/beh_icon.png" width="64"></br>
-
+<img src="icons/beh_icon.png" width="64"></img></br>
 [`behaviors \| scripts`](behavior_packs/index.md)
 </div>
 ---
