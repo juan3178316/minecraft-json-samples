@@ -12,22 +12,20 @@ Learn how you can use the `.json` file here:
 
 ## chose where you create your content:
 
-<img src="icons/addon_icon.png" width="64"></img></br>
+<img src="icons/addon_icon.png" width="64">
+
 [`add-ons`](add-ons/index.md)
-</br>
 
-<img src="icons/res_icon.png" width="64"></img></br>
+<img src="icons/res_icon.png" width="64">
+
 [`resources \| texture packs`](resource_packs/index.md)
-</br>
 
-<img src="icons/beh_icon.png" width="64"></img></br>
+<img src="icons/beh_icon.png" width="64">
+
 [`behaviors \| scripts`](behavior_packs/index.md)
 
 ---
 
-## contributions:
-[`@juan3178316`](https://github.com/juan3178316)
-![icon](https://avatars.githubusercontent.com/u/236281480?v=4)
 ## contributions:
 [`@juan3178316`](https://github.com/juan3178316)
 ![icon](https://avatars.githubusercontent.com/u/236281480?v=4)
